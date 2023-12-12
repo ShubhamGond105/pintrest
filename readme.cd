@@ -1,0 +1,10 @@
+/- login and register screen
+/logout
+/register
+/profile page with boards
+/feed - feed page with different pins
+/save/:pinid - save karege pin ko kisi board me
+/delete/: pinid - delete karege pin ko board se
+/login/edit
+/upload
+
